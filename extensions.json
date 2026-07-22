@@ -31,6 +31,20 @@
             "details_link": "https://raw.githubusercontent.com/lnbits/satoshisplacewasm/v0.1.2/config.json",
             "html_url": "https://github.com/lnbits/satoshisplacewasm/releases/tag/v0.1.2",
             "extension_type": "wasm"
+        },
+        {
+            "id": "chesswasm",
+            "repo": "https://github.com/lnbits/chesswasm",
+            "version": "0.1.2",
+            "archive": "https://github.com/lnbits/chesswasm/archive/refs/tags/v0.1.2.zip",
+            "hash": "2583b5466510d747581650a5aac32efb6d756b255059a02c078b07520fff9f0f",
+            "min_lnbits_version": "1.5.5",
+            "name": "Chess",
+            "short_description": "Create paid public chess games where the winner takes the pot.",
+            "icon": "https://raw.githubusercontent.com/lnbits/chesswasm/v0.1.2/static/assets/icon.png",
+            "details_link": "https://raw.githubusercontent.com/lnbits/chesswasm/v0.1.2/config.json",
+            "html_url": "https://github.com/lnbits/chesswasm/releases/tag/v0.1.2",
+            "extension_type": "wasm"
         }
     ]
 }
