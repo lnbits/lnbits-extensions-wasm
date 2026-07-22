@@ -3,5 +3,20 @@
     "categories": {
         "games": []
     },
-    "extensions": []
+    "extensions": [
+        {
+            "id": "lnq1",
+            "repo": "https://github.com/lnbits/lnq1",
+            "version": "0.1.2",
+            "archive": "https://github.com/lnbits/lnq1/archive/refs/tags/v0.1.2.zip",
+            "hash": "00da919cecfc9c1f6565620e6eb45ed8f4f00685a82bd4dd087a4ec1467481f7",
+            "min_lnbits_version": "1.5.6",
+            "name": "LNQ1 Arena",
+            "short_description": "A paid multiplayer FPS arena where players win entry fees by scoring kills.",
+            "icon": "https://raw.githubusercontent.com/lnbits/lnq1/v0.1.2/lnq1/static/assets/tile.svg",
+            "details_link": "https://raw.githubusercontent.com/lnbits/lnq1/v0.1.2/config.json",
+            "html_url": "https://github.com/lnbits/lnq1/releases/tag/v0.1.2",
+            "extension_type": "wasm"
+        }
+    ]
 }
