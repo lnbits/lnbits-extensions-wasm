@@ -17,6 +17,20 @@
             "details_link": "https://raw.githubusercontent.com/lnbits/lnq1/v0.1.2/config.json",
             "html_url": "https://github.com/lnbits/lnq1/releases/tag/v0.1.2",
             "extension_type": "wasm"
+        },
+        {
+            "id": "satoshisplacewasm",
+            "repo": "https://github.com/lnbits/satoshisplacewasm",
+            "version": "0.1.2",
+            "archive": "https://github.com/lnbits/satoshisplacewasm/archive/refs/tags/v0.1.2.zip",
+            "hash": "0e6cc6e475cb356edf791358e54b294b780df68b92eb98d48c12488d6ea821ad",
+            "min_lnbits_version": "1.5.5",
+            "name": "Satoshi's Place",
+            "short_description": "Create paid collaborative pixel walls.",
+            "icon": "https://raw.githubusercontent.com/lnbits/satoshisplacewasm/v0.1.2/static/assets/icon.png",
+            "details_link": "https://raw.githubusercontent.com/lnbits/satoshisplacewasm/v0.1.2/config.json",
+            "html_url": "https://github.com/lnbits/satoshisplacewasm/releases/tag/v0.1.2",
+            "extension_type": "wasm"
         }
     ]
 }
