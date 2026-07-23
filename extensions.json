@@ -59,6 +59,20 @@
             "details_link": "https://raw.githubusercontent.com/lnbits/streetfighterwasm/v0.1.3/config.json",
             "html_url": "https://github.com/lnbits/streetfighterwasm/releases/tag/v0.1.3",
             "extension_type": "wasm"
+        },
+        {
+            "id": "tips",
+            "repo": "https://github.com/lnbits/tips",
+            "version": "0.1.4",
+            "archive": "https://github.com/lnbits/tips/archive/refs/tags/v0.1.4.zip",
+            "hash": "b68e032af9f14143642c668c6c49e616fc496dbc6360f693bcf44cd2f65f5be4",
+            "min_lnbits_version": "1.5.5",
+            "name": "Tips",
+            "short_description": "Receive Lightning tips with short messages.",
+            "icon": "https://raw.githubusercontent.com/lnbits/tips/v0.1.4/static/assets/icon.png",
+            "details_link": "https://raw.githubusercontent.com/lnbits/tips/v0.1.4/config.json",
+            "html_url": "https://github.com/lnbits/tips/releases/tag/v0.1.4",
+            "extension_type": "wasm"
         }
     ]
 }
