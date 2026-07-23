@@ -77,15 +77,15 @@
         {
             "id": "bigpayment",
             "repo": "https://github.com/lnbits/bigpayment",
-            "version": "0.1.0",
-            "archive": "https://github.com/lnbits/bigpayment/archive/refs/tags/v0.1.0.zip",
-            "hash": "a72ecc8417dd9c62253d34ee28563c0c17b7512f5ef8408e94e1675ff3bfc614",
+            "version": "0.1.1",
+            "archive": "https://github.com/lnbits/bigpayment/archive/refs/tags/v0.1.1.zip",
+            "hash": "ea92e6cb00a7404c83a2cbda41b34d2f3ee39e7494cb3e9fdf5a9c454cfe241f",
             "min_lnbits_version": "1.5.5",
             "name": "BigPayment",
             "short_description": "Pay large Lightning invoices or LNURL-pay requests by using multiple wallets.",
-            "icon": "https://raw.githubusercontent.com/lnbits/bigpayment/v0.1.0/static/assets/icon.png",
-            "details_link": "https://raw.githubusercontent.com/lnbits/bigpayment/v0.1.0/config.json",
-            "html_url": "https://github.com/lnbits/bigpayment/releases/tag/v0.1.0",
+            "icon": "https://raw.githubusercontent.com/lnbits/bigpayment/v0.1.1/static/assets/icon.png",
+            "details_link": "https://raw.githubusercontent.com/lnbits/bigpayment/v0.1.1/config.json",
+            "html_url": "https://github.com/lnbits/bigpayment/releases/tag/v0.1.1",
             "extension_type": "wasm"
         },
         {
