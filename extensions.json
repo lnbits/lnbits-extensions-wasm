@@ -87,6 +87,20 @@
             "details_link": "https://raw.githubusercontent.com/lnbits/bigpayment/v0.1.0/config.json",
             "html_url": "https://github.com/lnbits/bigpayment/releases/tag/v0.1.0",
             "extension_type": "wasm"
+        },
+        {
+            "id": "pingpong",
+            "repo": "https://github.com/lnbits/pingpong",
+            "version": "0.1.1",
+            "archive": "https://github.com/lnbits/pingpong/archive/refs/tags/v0.1.1.zip",
+            "hash": "3f5f6255d7900ec68718c80b6b4e847bf56d850a8d9a015190f17bc5f98be2a1",
+            "min_lnbits_version": "1.5.6",
+            "name": "Ping Pong",
+            "short_description": "Lightning entry-fee Pong tables with winner payouts.",
+            "icon": "https://raw.githubusercontent.com/lnbits/pingpong/v0.1.1/static/assets/icon.png",
+            "details_link": "https://raw.githubusercontent.com/lnbits/pingpong/v0.1.1/config.json",
+            "html_url": "https://github.com/lnbits/pingpong/releases/tag/v0.1.1",
+            "extension_type": "wasm"
         }
     ]
 }
