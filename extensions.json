@@ -49,15 +49,15 @@
         {
             "id": "streetfighterwasm",
             "repo": "https://github.com/lnbits/streetfighterwasm",
-            "version": "0.1.3",
-            "archive": "https://github.com/lnbits/streetfighterwasm/archive/refs/tags/v0.1.3.zip",
-            "hash": "7c14ffc2eb2474591007e12fc206ca57c8b4cfab0815eac61dea76d9b16ce4ca",
+            "version": "0.1.4",
+            "archive": "https://github.com/lnbits/streetfighterwasm/archive/refs/tags/v0.1.4.zip",
+            "hash": "5702e62375e4246c34447dc0b13ada767519fa9a6f9f1a17af11329b3e475449",
             "min_lnbits_version": "1.5.6",
             "name": "StreetFighter",
             "short_description": "Create paid public StreetFighter matches where the winner takes the pot.",
-            "icon": "https://raw.githubusercontent.com/lnbits/streetfighterwasm/v0.1.3/streetfighterwasm/static/assets/tile.svg",
-            "details_link": "https://raw.githubusercontent.com/lnbits/streetfighterwasm/v0.1.3/config.json",
-            "html_url": "https://github.com/lnbits/streetfighterwasm/releases/tag/v0.1.3",
+            "icon": "https://raw.githubusercontent.com/lnbits/streetfighterwasm/v0.1.4/streetfighterwasm/static/assets/icon.png",
+            "details_link": "https://raw.githubusercontent.com/lnbits/streetfighterwasm/v0.1.4/config.json",
+            "html_url": "https://github.com/lnbits/streetfighterwasm/releases/tag/v0.1.4",
             "extension_type": "wasm"
         },
         {
