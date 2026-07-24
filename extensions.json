@@ -101,6 +101,20 @@
             "details_link": "https://raw.githubusercontent.com/lnbits/pingpong/v0.1.1/config.json",
             "html_url": "https://github.com/lnbits/pingpong/releases/tag/v0.1.1",
             "extension_type": "wasm"
+        },
+        {
+            "id": "paysplit",
+            "repo": "https://github.com/lnbits/paysplit",
+            "version": "0.1.1",
+            "archive": "https://github.com/lnbits/paysplit/archive/refs/tags/v0.1.1.zip",
+            "hash": "e96aea5d4b8c1d1d85bd6b3da1af28732fc28da6df70b412ce0bfc1e899e37af",
+            "min_lnbits_version": "1.5.5",
+            "name": "PaySplit",
+            "short_description": "Split incoming wallet payments to LNURL-pay targets.",
+            "icon": "https://raw.githubusercontent.com/lnbits/paysplit/v0.1.1/static/assets/icon.png",
+            "details_link": "https://raw.githubusercontent.com/lnbits/paysplit/v0.1.1/config.json",
+            "html_url": "https://github.com/lnbits/paysplit/releases/tag/v0.1.1",
+            "extension_type": "wasm"
         }
     ]
 }
