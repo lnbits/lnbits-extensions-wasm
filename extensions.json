@@ -35,15 +35,15 @@
         {
             "id": "chesswasm",
             "repo": "https://github.com/lnbits/chesswasm",
-            "version": "0.1.3",
-            "archive": "https://github.com/lnbits/chesswasm/archive/refs/tags/v0.1.3.zip",
-            "hash": "ed90a5c81e2663292e7a993186721429ac2de0a5d4b445f281566c112dd8be65",
+            "version": "0.1.4",
+            "archive": "https://github.com/lnbits/chesswasm/archive/refs/tags/v0.1.4.zip",
+            "hash": "275285bb9efdfbcc4074b7b536a93a9deb0c79e3cd5f5d5817d2ff2a52bc4c07",
             "min_lnbits_version": "1.5.5",
             "name": "Chess",
             "short_description": "Create paid public chess games where the winner takes the pot.",
-            "icon": "https://raw.githubusercontent.com/lnbits/chesswasm/v0.1.3/chesswasm/static/assets/icon.png",
-            "details_link": "https://raw.githubusercontent.com/lnbits/chesswasm/v0.1.3/config.json",
-            "html_url": "https://github.com/lnbits/chesswasm/releases/tag/v0.1.3",
+            "icon": "https://raw.githubusercontent.com/lnbits/chesswasm/v0.1.4/static/assets/icon.png",
+            "details_link": "https://raw.githubusercontent.com/lnbits/chesswasm/v0.1.4/config.json",
+            "html_url": "https://github.com/lnbits/chesswasm/releases/tag/v0.1.4",
             "extension_type": "wasm"
         },
         {
