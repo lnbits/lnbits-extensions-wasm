@@ -129,6 +129,20 @@
             "details_link": "https://raw.githubusercontent.com/lnbits/supportchat/v0.1.1/config.json",
             "html_url": "https://github.com/lnbits/supportchat/releases/tag/v0.1.1",
             "extension_type": "wasm"
+        },
+        {
+            "id": "battleshipswasm",
+            "repo": "https://github.com/lnbits/battleshipswasm",
+            "version": "0.1.2",
+            "archive": "https://github.com/lnbits/battleshipswasm/archive/refs/tags/v0.1.2.zip",
+            "hash": "c51839aad72d59ef9f9f6ccc25874f9ba7bcf09b0dc5da7caf21f07d86d5f727",
+            "min_lnbits_version": "1.5.5",
+            "name": "Battleships",
+            "short_description": "Create paid public Battleships games where the winner takes the pot.",
+            "icon": "https://raw.githubusercontent.com/lnbits/battleshipswasm/v0.1.2/static/assets/icon.png",
+            "details_link": "https://raw.githubusercontent.com/lnbits/battleshipswasm/v0.1.2/config.json",
+            "html_url": "https://github.com/lnbits/battleshipswasm/releases/tag/v0.1.2",
+            "extension_type": "wasm"
         }
     ]
 }
