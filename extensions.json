@@ -119,15 +119,15 @@
         {
             "id": "supportchat",
             "repo": "https://github.com/lnbits/supportchat",
-            "version": "0.2.1",
-            "archive": "https://github.com/lnbits/supportchat/archive/refs/tags/v0.2.1.zip",
-            "hash": "6c47acd35963bf35ab1d76b46ef0bb834aac15e6132d08ef49b1d870c55a3ee6",
+            "version": "0.2.2",
+            "archive": "https://github.com/lnbits/supportchat/archive/refs/tags/v0.2.2.zip",
+            "hash": "2ce3d5fbc129af3414ff05ae36e57cb01a51094909cb7433dea79e74c0ae6924",
             "min_lnbits_version": "1.5.6",
             "name": "Support Chat",
             "short_description": "Run simple public support inboxes with live chat threads.",
-            "icon": "https://raw.githubusercontent.com/lnbits/supportchat/v0.2.1/static/assets/icon.png",
-            "details_link": "https://raw.githubusercontent.com/lnbits/supportchat/v0.2.1/config.json",
-            "html_url": "https://github.com/lnbits/supportchat/releases/tag/v0.2.1",
+            "icon": "https://raw.githubusercontent.com/lnbits/supportchat/v0.2.2/static/assets/icon.png",
+            "details_link": "https://raw.githubusercontent.com/lnbits/supportchat/v0.2.2/config.json",
+            "html_url": "https://github.com/lnbits/supportchat/releases/tag/v0.2.2",
             "extension_type": "wasm"
         },
         {
