@@ -157,6 +157,20 @@
             "details_link": "https://raw.githubusercontent.com/lnbits/poker/v0.1.1/config.json",
             "html_url": "https://github.com/lnbits/poker/releases/tag/v0.1.1",
             "extension_type": "wasm"
+        },
+        {
+            "id": "inventorystats",
+            "repo": "https://github.com/lnbits/inventorystats",
+            "version": "0.1.1",
+            "archive": "https://github.com/lnbits/inventorystats/archive/refs/tags/v0.1.1.zip",
+            "hash": "41db009e30f14bf7b9729fb09493e543bed7cae3743964d7505147e4f35c3b64",
+            "min_lnbits_version": "1.5.6",
+            "name": "InventoryStats",
+            "short_description": "Inventory health, sales, category, and reorder analytics.",
+            "icon": "https://raw.githubusercontent.com/lnbits/inventorystats/v0.1.1/static/assets/icon.png",
+            "details_link": "https://raw.githubusercontent.com/lnbits/inventorystats/v0.1.1/config.json",
+            "html_url": "https://github.com/lnbits/inventorystats/releases/tag/v0.1.1",
+            "extension_type": "wasm"
         }
     ]
 }
