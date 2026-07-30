@@ -143,6 +143,20 @@
             "details_link": "https://raw.githubusercontent.com/lnbits/battleshipswasm/v0.1.2/config.json",
             "html_url": "https://github.com/lnbits/battleshipswasm/releases/tag/v0.1.2",
             "extension_type": "wasm"
+        },
+        {
+            "id": "inventorystats",
+            "repo": "https://github.com/lnbits/inventorystats",
+            "version": "0.1.0",
+            "archive": "https://github.com/lnbits/inventorystats/archive/refs/tags/v0.1.0.zip",
+            "hash": "388fe656a44e7b2e97d31470003cd39271cabfefae11e8a3d63180385ebcc47b",
+            "min_lnbits_version": "1.5.6",
+            "name": "InventoryStats",
+            "short_description": "Inventory health, sales, category, and reorder analytics.",
+            "icon": "https://raw.githubusercontent.com/lnbits/inventorystats/v0.1.0/static/assets/icon.png",
+            "details_link": "https://raw.githubusercontent.com/lnbits/inventorystats/v0.1.0/config.json",
+            "html_url": "https://github.com/lnbits/inventorystats/releases/tag/v0.1.0",
+            "extension_type": "wasm"
         }
     ]
 }
