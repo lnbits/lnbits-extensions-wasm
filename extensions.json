@@ -143,6 +143,20 @@
             "details_link": "https://raw.githubusercontent.com/lnbits/battleshipswasm/v0.1.2/config.json",
             "html_url": "https://github.com/lnbits/battleshipswasm/releases/tag/v0.1.2",
             "extension_type": "wasm"
+        },
+        {
+            "id": "poker",
+            "repo": "https://github.com/lnbits/poker",
+            "version": "0.1.1",
+            "archive": "https://github.com/lnbits/poker/archive/refs/tags/v0.1.1.zip",
+            "hash": "89b712b6f9ce7cf0949296f3c5a3788a4bd41f94dd0f10d46f891e86888900d7",
+            "min_lnbits_version": "1.5.6",
+            "name": "Poker",
+            "short_description": "Play paid best-of-five heads-up Draw Poker with tactile cards and Lightning payouts.",
+            "icon": "https://raw.githubusercontent.com/lnbits/poker/v0.1.1/static/assets/icon.svg",
+            "details_link": "https://raw.githubusercontent.com/lnbits/poker/v0.1.1/config.json",
+            "html_url": "https://github.com/lnbits/poker/releases/tag/v0.1.1",
+            "extension_type": "wasm"
         }
     ]
 }
