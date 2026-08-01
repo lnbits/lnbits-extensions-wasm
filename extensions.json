@@ -193,15 +193,15 @@
         {
             "id": "battleshipswasm",
             "repo": "https://github.com/lnbits/battleshipswasm",
-            "version": "0.1.5",
-            "archive": "https://github.com/lnbits/battleshipswasm/archive/refs/tags/v0.1.5.zip",
-            "hash": "c18e5cf7639cc47176df48ecc1f401edf01d09e928c19a7b5b36908e16974b94",
+            "version": "0.1.6",
+            "archive": "https://github.com/lnbits/battleshipswasm/archive/refs/tags/v0.1.6.zip",
+            "hash": "f8f86e2d4fc22440ef363463864ed33754924c4881d3ed03c3317295e63410ad",
             "min_lnbits_version": "1.5.6",
             "name": "Battleships",
             "short_description": "Create paid public Battleships games where the winner takes the pot.",
-            "icon": "https://raw.githubusercontent.com/lnbits/battleshipswasm/v0.1.5/static/assets/icon.png",
-            "details_link": "https://raw.githubusercontent.com/lnbits/battleshipswasm/v0.1.5/config.json",
-            "html_url": "https://github.com/lnbits/battleshipswasm/releases/tag/v0.1.5",
+            "icon": "https://raw.githubusercontent.com/lnbits/battleshipswasm/v0.1.6/static/assets/icon.png",
+            "details_link": "https://raw.githubusercontent.com/lnbits/battleshipswasm/v0.1.6/config.json",
+            "html_url": "https://github.com/lnbits/battleshipswasm/releases/tag/v0.1.6",
             "extension_type": "wasm"
         },
         {
