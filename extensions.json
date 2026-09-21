@@ -4,6 +4,9 @@
         "games": [],
         "fundraising": [
             "zapgoalswasm"
+        ],
+        "merchant": [
+            "forms"
         ]
     },
     "extensions": [
@@ -275,6 +278,21 @@
             "icon": "https://raw.githubusercontent.com/bitkarrot/zapgoalswasm/v0.5.2/static/assets/icon.png",
             "details_link": "https://raw.githubusercontent.com/bitkarrot/zapgoalswasm/v0.5.2/config.json",
             "html_url": "https://github.com/bitkarrot/zapgoalswasm/releases/tag/v0.5.2",
+            "extension_type": "wasm"
+        },
+        {
+            "id": "forms",
+            "repo": "https://github.com/bitkarrot/forms",
+            "version": "0.2.5",
+            "archive": "https://github.com/bitkarrot/forms/releases/download/v0.2.5/forms-0.2.5.zip",
+            "hash": "68d911d2dac1b175b77a9415317de4d80337c00831f466a206013fc902170dd7",
+            "min_lnbits_version": "1.6.0",
+            "name": "Forms",
+            "short_description": "Payment-gated forms, registrations and paid workflows",
+            "pay_link": "https://fern-plasma.exe.xyz/paywall/api/v1/paywalls/invoice/nDR4QvgJbhudvUE7J2ZN6Q",
+            "icon": "https://raw.githubusercontent.com/bitkarrot/forms/v0.2.5/static/assets/icon.png",
+            "details_link": "https://raw.githubusercontent.com/bitkarrot/forms/v0.2.5/config.json",
+            "html_url": "https://github.com/bitkarrot/forms/releases/tag/v0.2.5",
             "extension_type": "wasm"
         }
     ]
