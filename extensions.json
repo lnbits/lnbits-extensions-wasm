@@ -171,15 +171,15 @@
         {
             "id": "paysplit",
             "repo": "https://github.com/lnbits/paysplit",
-            "version": "0.2.1",
-            "archive": "https://github.com/lnbits/paysplit/archive/refs/tags/v0.2.1.zip",
-            "hash": "1ead79c13a2ba73e2026a1f64cd151a848e9b521fa941aaa57c1c482f2d06e09",
+            "version": "0.2.2",
+            "archive": "https://github.com/lnbits/paysplit/archive/refs/tags/v0.2.2.zip",
+            "hash": "b1ce44354b49e25a77b69865ed4c3cb983cd90076ddaa145eef74530012abb46",
             "min_lnbits_version": "1.6.2",
             "name": "PaySplit",
             "short_description": "Split incoming wallet payments to LNURL-pay targets.",
-            "icon": "https://raw.githubusercontent.com/lnbits/paysplit/v0.2.1/static/assets/icon.png",
-            "details_link": "https://raw.githubusercontent.com/lnbits/paysplit/v0.2.1/config.json",
-            "html_url": "https://github.com/lnbits/paysplit/releases/tag/v0.2.1",
+            "icon": "https://raw.githubusercontent.com/lnbits/paysplit/v0.2.2/static/assets/icon.png",
+            "details_link": "https://raw.githubusercontent.com/lnbits/paysplit/v0.2.2/config.json",
+            "html_url": "https://github.com/lnbits/paysplit/releases/tag/v0.2.2",
             "extension_type": "wasm"
         },
         {
