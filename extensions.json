@@ -309,6 +309,20 @@
             "details_link": "https://raw.githubusercontent.com/bitkarrot/forms/v0.2.5/config.json",
             "html_url": "https://github.com/bitkarrot/forms/releases/tag/v0.2.5",
             "extension_type": "wasm"
+        },
+        {
+            "id": "beanshow",
+            "repo": "https://github.com/lnbits/beanshow",
+            "version": "0.1.1",
+            "archive": "https://github.com/lnbits/beanshow/archive/refs/tags/v0.1.1.zip",
+            "hash": "9eeaf30887ecf0af15e155d665bfdba8a255a69f994b0058a0abf1f732cb4466",
+            "min_lnbits_version": null,
+            "name": "Bean Show",
+            "short_description": "A candy-coloured 60-bean knockout show: five rounds, one crown.",
+            "icon": "https://raw.githubusercontent.com/lnbits/beanshow/v0.1.1/static/assets/icon.png",
+            "details_link": "https://raw.githubusercontent.com/lnbits/beanshow/v0.1.1/config.json",
+            "html_url": "https://github.com/lnbits/beanshow/releases/tag/v0.1.1",
+            "extension_type": "wasm"
         }
     ]
 }
