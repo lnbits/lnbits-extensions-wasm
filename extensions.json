@@ -309,6 +309,20 @@
             "details_link": "https://raw.githubusercontent.com/bitkarrot/forms/v0.2.5/config.json",
             "html_url": "https://github.com/bitkarrot/forms/releases/tag/v0.2.5",
             "extension_type": "wasm"
+        },
+        {
+            "id": "satrun",
+            "repo": "https://github.com/lnbits/satrun",
+            "version": "0.1.1",
+            "archive": "https://github.com/lnbits/satrun/archive/refs/tags/v0.1.1.zip",
+            "hash": "874d2a496650d7c9aa6b5b23fff189c3f1ddd462be40cdf95143df1c2f57bb25",
+            "min_lnbits_version": null,
+            "name": "Sat Run",
+            "short_description": "Climb the light circuit. Outrun the void. One more floor.",
+            "icon": "https://raw.githubusercontent.com/lnbits/satrun/v0.1.1/static/assets/icon.png",
+            "details_link": "https://raw.githubusercontent.com/lnbits/satrun/v0.1.1/config.json",
+            "html_url": "https://github.com/lnbits/satrun/releases/tag/v0.1.1",
+            "extension_type": "wasm"
         }
     ]
 }
