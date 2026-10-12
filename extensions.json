@@ -323,6 +323,20 @@
             "details_link": "https://raw.githubusercontent.com/lnbits/beanshow/v0.1.2/config.json",
             "html_url": "https://github.com/lnbits/beanshow/releases/tag/v0.1.2",
             "extension_type": "wasm"
+        },
+        {
+            "id": "pricebot",
+            "repo": "https://github.com/lnbits/pricebot",
+            "version": "0.1.2",
+            "archive": "https://github.com/lnbits/pricebot/archive/refs/tags/v0.1.2.zip",
+            "hash": "13810ccb90dfbaa33814aba5e90d8ae9d5b03fd67c50360a58f38f7e2dccd0ba",
+            "min_lnbits_version": "1.6.2",
+            "name": "Pricebot",
+            "short_description": "Bitcoin price alerts and a daily summary, powered by LNbits.",
+            "icon": "https://raw.githubusercontent.com/lnbits/pricebot/v0.1.2/static/icon.svg",
+            "details_link": "https://raw.githubusercontent.com/lnbits/pricebot/v0.1.2/config.json",
+            "html_url": "https://github.com/lnbits/pricebot/releases/tag/v0.1.2",
+            "extension_type": "wasm"
         }
     ]
 }
