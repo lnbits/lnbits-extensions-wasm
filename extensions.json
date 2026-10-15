@@ -355,15 +355,15 @@
         {
             "id": "wallet_sweep",
             "repo": "https://github.com/lnbits/wallet_sweep",
-            "version": "0.1.1",
-            "archive": "https://github.com/lnbits/wallet_sweep/releases/download/v0.1.1/wallet_sweep-0.1.1.zip",
-            "hash": "c23f1d91536d213bfaf09931733657e7779ebca3c4d0f14d7e3b63c2cc056488",
+            "version": "0.1.2",
+            "archive": "https://github.com/lnbits/wallet_sweep/releases/download/v0.1.2/wallet_sweep-0.1.2.zip",
+            "hash": "d3bacbce1356ae8ccdf09a89cf5c7edb55bfd050acc13527842839fca738ce58",
             "min_lnbits_version": "1.6.2",
             "name": "Wallet Sweep",
             "short_description": "Gather funds from your wallets and optionally send them to a Lightning Address.",
-            "icon": "https://raw.githubusercontent.com/lnbits/wallet_sweep/v0.1.1/static/assets/icon.png",
-            "details_link": "https://raw.githubusercontent.com/lnbits/wallet_sweep/v0.1.1/config.json",
-            "html_url": "https://github.com/lnbits/wallet_sweep/releases/tag/v0.1.1",
+            "icon": "https://raw.githubusercontent.com/lnbits/wallet_sweep/v0.1.2/static/assets/icon.png",
+            "details_link": "https://raw.githubusercontent.com/lnbits/wallet_sweep/v0.1.2/config.json",
+            "html_url": "https://github.com/lnbits/wallet_sweep/releases/tag/v0.1.2",
             "extension_type": "wasm"
         }
     ]
