@@ -324,7 +324,7 @@
             "html_url": "https://github.com/lnbits/satrun/releases/tag/v0.1.1",
             "extension_type": "wasm"
         },
-        {  
+        {
             "id": "beanshow",
             "repo": "https://github.com/lnbits/beanshow",
             "version": "0.1.2",
@@ -350,6 +350,20 @@
             "icon": "https://raw.githubusercontent.com/lnbits/pricebot/v0.1.3/static/assets/icon.png",
             "details_link": "https://raw.githubusercontent.com/lnbits/pricebot/v0.1.3/config.json",
             "html_url": "https://github.com/lnbits/pricebot/releases/tag/v0.1.3",
+            "extension_type": "wasm"
+        },
+        {
+            "id": "wallet_sweep",
+            "repo": "https://github.com/lnbits/wallet_sweep",
+            "version": "0.1.0",
+            "archive": "https://github.com/lnbits/wallet_sweep/releases/download/v0.1.0/wallet_sweep-0.1.0.zip",
+            "hash": "aeb8c95057b5670b98eca1bb4a56fdfff9e977fe95670a5bbe1556b80e24333c",
+            "min_lnbits_version": "1.6.2-rc1",
+            "name": "Wallet Sweep",
+            "short_description": "Gather funds from your wallets and optionally send them to a Lightning Address.",
+            "icon": "https://raw.githubusercontent.com/lnbits/wallet_sweep/v0.1.0/static/assets/icon.png",
+            "details_link": "https://raw.githubusercontent.com/lnbits/wallet_sweep/v0.1.0/config.json",
+            "html_url": "https://github.com/lnbits/wallet_sweep/releases/tag/v0.1.0",
             "extension_type": "wasm"
         }
     ]
