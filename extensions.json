@@ -6,7 +6,8 @@
             "zapgoalswasm"
         ],
         "merchant": [
-            "forms"
+            "forms",
+            "paywallwasm"
         ]
     },
     "extensions": [
@@ -364,6 +365,20 @@
             "icon": "https://raw.githubusercontent.com/lnbits/wallet_sweep/v0.1.2/static/assets/icon.png",
             "details_link": "https://raw.githubusercontent.com/lnbits/wallet_sweep/v0.1.2/config.json",
             "html_url": "https://github.com/lnbits/wallet_sweep/releases/tag/v0.1.2",
+            "extension_type": "wasm"
+        },
+        {
+            "id": "paywallwasm",
+            "repo": "https://github.com/alru78/paywallwasm",
+            "version": "0.1.5",
+            "archive": "https://github.com/alru78/paywallwasm/releases/download/v0.1.5/paywallwasm-v0.1.5.zip",
+            "hash": "f06403d93d1969d680355fb59918b19c1f26f46267ce0d5f4a70f04e1aa63da2",
+            "min_lnbits_version": "1.7.1",
+            "name": "Paywall",
+            "short_description": "Unlock a link after a Lightning payment.",
+            "icon": "https://raw.githubusercontent.com/alru78/paywallwasm/v0.1.5/static/assets/icon.png",
+            "details_link": "https://raw.githubusercontent.com/alru78/paywallwasm/v0.1.5/config.json",
+            "html_url": "https://github.com/alru78/paywallwasm/releases/tag/v0.1.5",
             "extension_type": "wasm"
         }
     ]
