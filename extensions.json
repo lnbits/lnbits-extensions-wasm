@@ -256,15 +256,15 @@
         {
             "id": "popmenu",
             "repo": "https://github.com/lnbits/popmenu",
-            "version": "0.1.0",
-            "archive": "https://github.com/lnbits/popmenu/archive/refs/tags/v0.1.0.zip",
-            "hash": "10f62eac569f0c52fd2aef636825439579b35950d7599b87a88e0479b0a9b22a",
+            "version": "0.2.0",
+            "archive": "https://github.com/lnbits/popmenu/archive/refs/tags/v0.2.0.zip",
+            "hash": "03221fd995637e79e68f6aa1ebed119c2e1a850e86959a9550c5cb9cf6950e33",
             "min_lnbits_version": null,
             "name": "PopMenu",
             "short_description": "A lightweight QR menu, Lightning checkout, and order queue.",
-            "icon": "https://raw.githubusercontent.com/lnbits/popmenu/v0.1.0/static/assets/icon.png",
-            "details_link": "https://raw.githubusercontent.com/lnbits/popmenu/v0.1.0/config.json",
-            "html_url": "https://github.com/lnbits/popmenu/releases/tag/v0.1.0",
+            "icon": "https://raw.githubusercontent.com/lnbits/popmenu/v0.2.0/static/assets/icon.png",
+            "details_link": "https://raw.githubusercontent.com/lnbits/popmenu/v0.2.0/config.json",
+            "html_url": "https://github.com/lnbits/popmenu/releases/tag/v0.2.0",
             "extension_type": "wasm"
         },
         {
