@@ -365,6 +365,20 @@
             "details_link": "https://raw.githubusercontent.com/lnbits/wallet_sweep/v0.1.2/config.json",
             "html_url": "https://github.com/lnbits/wallet_sweep/releases/tag/v0.1.2",
             "extension_type": "wasm"
+        },
+        {
+            "id": "nostrjoin",
+            "repo": "https://github.com/alru78/nostrjoin",
+            "version": "0.1.2",
+            "archive": "https://github.com/alru78/nostrjoin/releases/download/v0.1.2/nostrjoin-v0.1.2.zip",
+            "hash": "47990166e3c51d331a103b243c1f56f24b6d72d7599cc16c845ba8a14b6f8828",
+            "min_lnbits_version": "1.7.1",
+            "name": "Nostr Join",
+            "short_description": "A public join page for a Nostr community: key, NIP-05 name and relay access.",
+            "icon": "https://raw.githubusercontent.com/alru78/nostrjoin/v0.1.2/static/assets/icon.png",
+            "details_link": "https://raw.githubusercontent.com/alru78/nostrjoin/v0.1.2/config.json",
+            "html_url": "https://github.com/alru78/nostrjoin/releases/tag/v0.1.2",
+            "extension_type": "wasm"
         }
     ]
 }
